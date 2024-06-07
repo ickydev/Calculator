@@ -1,0 +1,16 @@
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\bin\Release\net8.0-windows\Calculator.exe
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\bin\Release\net8.0-windows\Calculator.deps.json
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\bin\Release\net8.0-windows\Calculator.runtimeconfig.json
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\bin\Release\net8.0-windows\Calculator.dll
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\bin\Release\net8.0-windows\Calculator.pdb
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\obj\Release\net8.0-windows\Calculator.Calculator.resources
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\obj\Release\net8.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\obj\Release\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\obj\Release\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\obj\Release\net8.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\obj\Release\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\obj\Release\net8.0-windows\Calculator.dll
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\obj\Release\net8.0-windows\refint\Calculator.dll
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\obj\Release\net8.0-windows\Calculator.pdb
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\obj\Release\net8.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\lunav\source\repos\Calculator\Calculator\Calculator\obj\Release\net8.0-windows\ref\Calculator.dll
